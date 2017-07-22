@@ -2,6 +2,7 @@
     Path globali di sistema
 */
 
-set v.Root = ...;
 set v.Source = ...;
 set v.Production = ...;
+
+set v.Root = ...;
